@@ -1,0 +1,15 @@
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\bin\Debug\mp3_test.exe.config
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\bin\Debug\mp3_test.exe
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\bin\Debug\mp3_test.pdb
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\bin\Debug\Interop.WMPLib.dll
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\obj\Debug\mp3_test.csproj.AssemblyReference.cache
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\obj\Debug\Interop.WMPLib.dll
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\obj\Debug\mp3_test.csproj.ResolveComReference.cache
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\obj\Debug\mp3_test.Form1.resources
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\obj\Debug\mp3_test.Properties.Resources.resources
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\obj\Debug\mp3_test.csproj.GenerateResource.cache
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\obj\Debug\mp3_test.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\obj\Debug\mp3_test.exe
+C:\Users\ADVANCE COMPUTERS\Source\Repos\mp3Player_test\mp3_test\obj\Debug\mp3_test.pdb
